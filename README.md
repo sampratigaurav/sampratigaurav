@@ -47,9 +47,9 @@ class Samprati:
         self.pronouns    = ["he", "him"]
         self.location    = "Bangalore, India 🇮🇳"
         self.university  = "Dayananda Sagar University"
-        self.focus       = ["AI Security", "Web Apps", "Encrypted Comms"]
+        self.focus       = ["AI Security", "ML Systems", "Web Apps"]
         self.currently   = {
-            "building"    : ["Duet (E2EE messenger)", "Project Aegis (AI model marketplace)"],
+            "building"    : ["Distill (data poisoning detection suite)", "samprati.dev (portfolio)"],
             "researching" : "Healthcare phishing detection · DistilBERT + SHAP",
             "writing"     : "AI Security blog series on Hashnode",
             "learning"    : ["Deep SVDD", "Zero-Knowledge Proofs", "Smart Contracts"]
@@ -68,11 +68,9 @@ class Samprati:
 
 | `project` | `description` | `stack` | `status` |
 |:---|:---|:---|:---:|
-| **[SnipKit](https://github.com/sampratigaurav/snipkit)** | keyboard-native text expansion — because your snippets should follow you | `Vanilla JS` `Chrome MV3` | 🟢 `LIVE` |
-| **[SyncWatch](https://github.com/sampratigaurav/syncwatch)** | synchronized watch parties — built for my girlfriend two hostels away | `React` `TypeScript` `Socket.io` | 🟢 `DEPLOYED` |
-| **[Duet](https://github.com/sampratigaurav/duet)** | one channel, two people, zero leaks — E2EE messaging | `React` `Supabase` `E2EE` | 🔨 `BUILDING` |
-| **[Project Aegis](https://github.com/sampratigaurav/project-aegis)** | trust index for AI models — who audits the auditors? | `Solidity` `React` `IPFS` | 🔨 `BUILDING` |
-| **[Rozgar](https://github.com/sampratigaurav/rozgar)** | gig marketplace with Vision AI price anchoring · FantomCode 2026 | `Next.js` `Gemini API` `Supabase` | 🏆 `HACKATHON` |
+| **[Distill](https://github.com/sampratigaurav/Distill)** | universal data sanitization — 3-model ensemble that hunts poisoned training data before it reaches your model | `PyTorch` `FastAPI` `Next.js` `Modal` | 🟢 `LIVE` |
+| **[samprati.dev](https://github.com/sampratigaurav/samprati-gaurav-portfolio)** | personal portfolio — zero UI libraries, custom terminal, 8 easter eggs, 91 Lighthouse score | `React 19` `Vite` `Vanilla CSS` | 🟢 `DEPLOYED` |
+
 
 </div>
 
@@ -87,9 +85,9 @@ class Samprati:
   "backend"     : ["Node.js", "Express", "Socket.io"],
   "databases"   : ["PostgreSQL", "Supabase", "MongoDB"],
   "security"    : ["NLP", "Anomaly Detection", "Autoencoders", "Isolation Forest"],
-  "blockchain"  : ["Solidity", "IPFS", "Smart Contracts"],
-  "ml_ai"       : ["DistilBERT", "Deep SVDD", "SHAP", "scikit-learn"],
-  "tools"       : ["Git", "Docker", "Linux", "Vercel", "VS Code"],
+  "ml_ai"       : ["PyTorch", "DistilBERT", "Deep SVDD", "SHAP", "scikit-learn"],
+  "deployment"  : ["Vercel", "Modal (serverless GPU)", "Docker"],
+  "tools"       : ["Git", "Docker", "Linux", "VS Code"],
   "currently_loading": ["zkProofs", "Rust", "LangChain"]
 }
 ```
