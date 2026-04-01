@@ -15,7 +15,7 @@ samprati gaurav — cs student, builder, security researcher
 |---|---|---|---|
 | [SnipKit](https://github.com/sampratigaurav/snipkit) | keyboard-driven text expansion for devs | Vanilla JS · Chrome MV3 | 🟢 live on CWS |
 | [SyncWatch](https://github.com/sampratigaurav/syncwatch) | real-time synchronized watch parties | React · TypeScript · Socket.io · Node.js | 🟢 deployed |
-| [Duet](https://github.com/sampratigaurav/duet) | secure two-person encrypted messaging | React · Supabase · E2E encryption | 🟢 deployed |
+| [Duet](https://github.com/sampratigaurav/duet) | secure two-person encrypted messaging | React · Supabase · E2E encryption | 🔨 building |
 | [Project Aegis](https://github.com/sampratigaurav/project-aegis) | blockchain-based AI model marketplace | Solidity · React · IPFS | 🔨 building |
 
 ---
