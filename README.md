@@ -48,7 +48,7 @@ const samprati = {
 
 > **AI Security Series** on Hashnode — data poisoning attacks, detection methods,
 > and building anomaly detection pipelines from scratch.
-> [Read it →](https://samprati.hashnode.dev)
+> [Read it →](https://sampratigaurav.hashnode.dev/)
 
 ---
 
