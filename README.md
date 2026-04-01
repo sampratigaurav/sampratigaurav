@@ -49,7 +49,7 @@ class Samprati:
         self.university  = "Dayananda Sagar University"
         self.focus       = ["AI Security", "ML Systems", "Web Apps"]
         self.currently   = {
-            "building"    : ["Distill (data poisoning detection suite)", "samprati.dev (portfolio)"],
+            "shipped"     : ["SyncWatch", "SnipKit", "samprati.dev", "Distill"],
             "researching" : "Healthcare phishing detection · DistilBERT + SHAP",
             "writing"     : "AI Security blog series on Hashnode",
             "learning"    : ["Deep SVDD", "Zero-Knowledge Proofs", "Smart Contracts"]
@@ -68,8 +68,10 @@ class Samprati:
 
 | `project` | `description` | `stack` | `status` |
 |:---|:---|:---|:---:|
-| **[Distill](https://github.com/sampratigaurav/Distill)** | universal data sanitization — 3-model ensemble that hunts poisoned training data before it reaches your model | `PyTorch` `FastAPI` `Next.js` `Modal` | 🟢 `LIVE` |
+| **[SyncWatch](https://github.com/sampratigaurav/syncwatch)** | synchronized watch parties — built for my girlfriend two hostels away | `React` `TypeScript` `Socket.io` `Node.js` | 🟢 `DEPLOYED` |
+| **[SnipKit](https://github.com/sampratigaurav/snipkit)** | keyboard-native text expansion — because your snippets should follow you | `Vanilla JS` `Chrome MV3` | 🟢 `LIVE` |
 | **[samprati.dev](https://github.com/sampratigaurav/samprati-gaurav-portfolio)** | personal portfolio — zero UI libraries, custom terminal, 8 easter eggs, 91 Lighthouse score | `React 19` `Vite` `Vanilla CSS` | 🟢 `DEPLOYED` |
+| **[Distill](https://github.com/sampratigaurav/Distill)** | universal data sanitization — 3-model ensemble that hunts poisoned training data before it reaches your model | `PyTorch` `FastAPI` `Next.js` `Modal` | 🟢 `LIVE` |
 
 
 </div>
