@@ -82,7 +82,7 @@ class Samprati:
 
 ```json
 {
-  "languages"   : ["JavaScript", "TypeScript", "Python", "C++"],
+  "languages"   : ["JavaScript", "TypeScript", "Python", "C++", "Java"],
   "frontend"    : ["React", "Next.js", "Tailwind CSS", "Vite"],
   "backend"     : ["Node.js", "Express", "Socket.io"],
   "databases"   : ["PostgreSQL", "Supabase", "MongoDB"],
