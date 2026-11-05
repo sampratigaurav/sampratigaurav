@@ -7,15 +7,6 @@
 
 <br />
 
-<div align="center">
-  <sub>RECENT ACTIVITY</sub>
-  <br />
-  <br />
-  <img src="./contributions-front.jpg" width="100%" alt="Samprati Gaurav's GitHub contribution activity graph" />
-</div>
-
-<br />
-
 ## Good software starts with a real problem.
 
 I'm **Samprati**, a Computer Science student at **Dayananda Sagar University, Bengaluru**. I build web applications, explore machine learning and security, and care about how software feels to the person using it.
