@@ -1,64 +1,95 @@
 <div align="center">
-<img src="./banner.svg" alt="Samprati Gaurav — Student, Builder, Cyber Thinker" width="100%" />
-
-<sub><i>Print No. 001 · Open Edition · Bengaluru, IN</i></sub>
+  <img src="./banner.svg" width="100%" alt="Samprati Gaurav — Developer and Computer Science student. Useful software. Thoughtful systems." />
+  <br />
+  <br />
+  <a href="https://samprati.dev"><strong>Portfolio ↗</strong></a>&nbsp;&nbsp; / &nbsp;&nbsp;<a href="https://www.linkedin.com/in/sampratigaurav/">LinkedIn</a>&nbsp;&nbsp; / &nbsp;&nbsp;<a href="https://sampratigaurav.hashnode.dev/">Writing</a>
 </div>
 
-<br>
+<br />
 
-> Built a synchronized watch-party app so he and his girlfriend could watch the same film from two hostels apart — it's since been adopted by people who aren't even long distance. That's the throughline: solve the problem you actually have, then let it turn out to be useful to someone else by accident.
+## Good software starts with a real problem.
 
-<div align="center"><img src="./divider.svg" width="160" alt="" /></div>
+I'm **Samprati**, a Computer Science student at **Dayananda Sagar University, Bengaluru**. I build web applications, explore machine learning and security, and care about how software feels to the person using it.
 
-## On view
+**SyncWatch started with a movie night.** My girlfriend and I were in different hostels, so I built a way for us to watch together in sync. Other people found it useful too. That’s how I like to work: start with something real, build thoughtfully, and keep improving it.
 
-**SyncWatch** — *real-time synchronized watch parties*
-React · TypeScript · Socket.io — active
+<br />
 
-**Distill** — *a three-model ensemble that catches poisoned training data before it reaches your model*
-PyTorch · FastAPI · Modal — active
+## Selected work
 
-**SnipKit** — *keyboard-native text expansion that follows you everywhere*
-Vanilla JS · Chrome MV3 — active
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**samprati.dev** — *this portfolio, built without a single UI library*
-React 19 · Vite — on permanent display
+<sub>01 / REAL-TIME EXPERIENCES</sub>
+<h3><a href="https://github.com/sampratigaurav/syncwatch">SyncWatch ↗</a></h3>
+<p>Movie night, across the distance. Synchronized playback, shared controls, and conversation in one place.</p>
+<p><sub>React · TypeScript · Socket.io</sub></p>
+<a href="https://github.com/sampratigaurav/syncwatch"><strong>Explore the code →</strong></a>
 
-<div align="center"><img src="./divider.svg" width="160" alt="" /></div>
+</td>
+<td width="50%" valign="top">
 
-## Study, in progress
+<sub>02 / MACHINE LEARNING &amp; SECURITY</sub>
+<h3><a href="https://github.com/sampratigaurav/Distill">Distill ↗</a></h3>
+<p>A three-model ensemble for flagging anomalous and potentially poisoned data before model training.</p>
+<p><sub>PyTorch · FastAPI · Modal</sub></p>
+<a href="https://github.com/sampratigaurav/Distill"><strong>Explore the code →</strong></a>
 
-**Healthcare phishing detection** — NLP classification with an explainability layer
-TF-IDF → DistilBERT → SHAP · bound for IEEE
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center"><img src="./divider.svg" width="160" alt="" /></div>
+<sub>03 / EVERYDAY TOOLS</sub>
+<h3><a href="https://github.com/sampratigaurav/snipkit">SnipKit ↗</a></h3>
+<p>Less repetition, more flow. Keyboard-driven text expansion and a command palette for the browser.</p>
+<p><sub>JavaScript · Chrome Manifest V3</sub></p>
+<a href="https://github.com/sampratigaurav/snipkit"><strong>Explore the code →</strong></a>
 
-## Provenance
+</td>
+<td width="50%" valign="top">
 
-Dayananda Sagar University, Bengaluru — second-year Computer Science.
-Presently building freelance, in the open, in public repositories.
+<sub>04 / DESIGN &amp; DEVELOPMENT</sub>
+<h3><a href="https://samprati.dev">samprati.dev ↗</a></h3>
+<p>My corner of the web. An editorial portfolio with custom interfaces, bold typography, and a little print-inspired character.</p>
+<p><sub>React 19 · Vite · Tailwind CSS</sub></p>
+<a href="https://github.com/sampratigaurav/samprati-gaurav-portfolio"><strong>Explore the code →</strong></a>
 
-<div align="center"><img src="./divider.svg" width="160" alt="" /></div>
+</td>
+</tr>
+</table>
 
-## Gallery attendance
+<br />
+
+## Research, in progress
+
+**Healthcare phishing detection** — exploring NLP classification with an explainability layer, working from TF-IDF baselines toward DistilBERT and SHAP.
+
+<sub>Interests: trustworthy ML · cybersecurity · interpretable systems</sub>
+
+<br />
+
+## At the workbench
+
+| Building | Working with |
+| :--- | :--- |
+| Web applications & real-time systems | React, TypeScript, JavaScript, Socket.io |
+| ML tools & data workflows | Python, PyTorch, FastAPI, Modal |
+| Interfaces & browser utilities | Vite, Tailwind CSS, Chrome Manifest V3 |
+
+<br />
+
+<img src="./divider.svg" width="100%" alt="" />
+
+### Have something useful in mind?
+
+I'm building freelance and in public. If you're working on a thoughtful product, a practical tool, or an interesting research problem, **let’s connect**.
+
+**[Portfolio ↗](https://samprati.dev)** &nbsp; · &nbsp; **[LinkedIn ↗](https://www.linkedin.com/in/sampratigaurav/)** &nbsp; · &nbsp; **[Read my writing ↗](https://sampratigaurav.hashnode.dev/)**
+
+<br />
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sampratigaurav&show_icons=true&hide_border=true&bg_color=0B0B0A&title_color=E9E3D4&icon_color=E9E3D4&text_color=B7AF9C&ring_color=E9E3D4" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampratigaurav&layout=compact&hide_border=true&bg_color=0B0B0A&title_color=E9E3D4&text_color=B7AF9C" height="150" />
-</div>
-
-<div align="center"><img src="./divider.svg" width="160" alt="" /></div>
-
-## Acquisition inquiries
-
-<div align="center">
-
-[samprati.dev](https://samprati.dev) · [GitHub](https://github.com/sampratigaurav) · [Writing](https://sampratigaurav.hashnode.dev/) · [LinkedIn](https://www.linkedin.com/in/sampratigaurav/)
-
-</div>
-
-<br>
-
-<div align="center">
-<sub>This page is updated periodically. No two visits are guaranteed to be identical.</sub>
+  <sub>BUILT WITH INTENT. ALWAYS IN PROGRESS.</sub>
 </div>
