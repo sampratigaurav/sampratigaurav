@@ -11,7 +11,7 @@
   <sub>RECENT ACTIVITY</sub>
   <br />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sampratigaurav&bg_color=0d1117&color=8b949e&line=39d353&point=58a6ff&area=true&hide_border=true" width="100%" alt="Samprati Gaurav's GitHub contribution activity graph" />
+  <img src="./contributions-front.jpg" width="100%" alt="Samprati Gaurav's GitHub contribution activity graph" />
 </div>
 
 <br />
