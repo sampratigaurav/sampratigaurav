@@ -11,8 +11,6 @@
 
 I'm **Samprati**, a Computer Science student at **Dayananda Sagar University, Bengaluru**. I build web applications, explore machine learning and security, and care about how software feels to the person using it.
 
-**SyncWatch started with a movie night.** My girlfriend and I were in different hostels, so I built a way for us to watch together in sync. Other people found it useful too. That’s how I like to work: start with something real, build thoughtfully, and keep improving it.
-
 <br />
 
 ## Selected work
